@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.user.lab_3.MainActivity">
+    <item
+        android:id="@+id/action_add_record"
+        android:orderInCategory="100"
+        android:title="@string/add_record" />
+</menu>

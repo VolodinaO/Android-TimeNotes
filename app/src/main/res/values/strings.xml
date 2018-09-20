@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TimeTracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="records">Записи</string>
+    <string name="category">Категории</string>
+    <string name="statistics">Статистика</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="add_category">Add category</string>
+    <string name="create">Create</string>
+    <string name="add_record">Add record</string>
+    <string name="time_start">Время начала</string>
+    <string name="time_end">Время окончания</string>
+    <string name="time">Продолжительность</string>
+    <string name="descr">Описание</string>
+    <string name="saves">Сохранить</string>
+    <string name="month">За месяц</string>
+    <string name="var">За отрезок времени</string>
+    <string name="date">Дата</string>
+    <string name="hint">Кликнуть здесь</string>
+    <string name="rep">Пересчитать</string>
+    <string name="des">Описание</string>
+    <string name="top_count">Топ 3 самых частых занятий</string>
+    <string name="top_time">Топ 3 занятий, занимающих больше всего времени</string>
+    <string name="sum_time">Суммарное время</string>
+    <string name="add_photo">Добавить фото</string>
+    <string name="photo">Фото</string>
+</resources>
